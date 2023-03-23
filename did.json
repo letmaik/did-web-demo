@@ -1,0 +1,18 @@
+{
+  "id": "did:web:letmaik.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:letmaik.github.io:did-web-demo#6a15fcf2519062e407f679f0d62e8daa3c0e37baff27f430fb1306161ab559a9",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:letmaik.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "e0S7m54vefFenP288ZMVAIvAqP1A_ROa_yL8YoZ_Ysn7swpuuReG7WGx9-jXwkVz",
+        "y": "8NfdWReqK_wxcTm2baqNoo71m1Zftt0gIjhXNUYSjAcTXOmhg8hJzmvlTURNP9kd",
+        "kid": "#6a15fcf2519062e407f679f0d62e8daa3c0e37baff27f430fb1306161ab559a9",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
